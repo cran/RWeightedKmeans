@@ -1,0 +1,6 @@
+exportPattern("^[^\\.]")
+useDynLib(RWeightedKmeans)
+export(kmeans)
+export(weightedKmeans)
+import(fpc)
+import(clusterCrit)

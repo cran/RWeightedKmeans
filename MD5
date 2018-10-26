@@ -1,0 +1,8 @@
+18face65bcfb2d482402684f0ea02e80 *DESCRIPTION
+13288ceefc48ae743fc622ab7ee7bc1a *NAMESPACE
+89067767854d82c557b95c97a0871cd4 *R/weightedKmeans.R
+05efb3ba8d7aa16938ceddbbc0737468 *man/kmeans.Rd
+36a4055d1b209f68ffc600e57afcaac5 *man/weightedKmeans.Rd
+05d131f89fc6d1b0fdfa20d8bf207917 *src/cluster.c
+0a3fc80a3d0e722edde613e97191acca *src/cluster.h
+70dfcf317fc12b9b32841149e28d65f4 *src/cluster_R_interface.c
